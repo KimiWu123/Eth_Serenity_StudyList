@@ -3,7 +3,7 @@ My personal Ethereum Serenity(Eth 2.0) study list
 
 
 ## Serenity Specs
-[eth2.0-specs](https://github.com/ethereum/eth2.0-specs/blob/master/specs/beacon-chain.md)
+[eth2.0-specs](https://github.com/ethereum/eth2.0-specs/)
 
 [Beacon chain Casper FFG RPJ mini-spec](https://ethresear.ch/t/beacon-chain-casper-ffg-rpj-mini-spec/2760)
 
