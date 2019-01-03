@@ -5,6 +5,7 @@ My personal Ethereum Serenity(Eth 2.0) study list
 ## Serenity Specs
  - [eth2.0-specs](https://github.com/ethereum/eth2.0-specs/)
  - [eth2.0 HandBook](https://notes.ethereum.org/s/BkSZAJNwX)
+ - [eth2.0 slides](https://docs.google.com/presentation/d/1L1Mauo-5dPKo1-a4lgoZYQ8Ug14nX94NYxlJSgP04y8/edit#slide=id.p4)
  
  - [Beacon chain Casper FFG RPJ mini-spec](https://ethresear.ch/t/beacon-chain-casper-ffg-rpj-mini-spec/2760)
  - [Ethereum Sharding Research Compendium](https://notes.ethereum.org/s/H1PGqDhpm) 
