@@ -4,6 +4,7 @@ My personal Ethereum Serenity(Eth 2.0) study list
 
 ## Serenity Specs
  - [eth2.0-specs](https://github.com/ethereum/eth2.0-specs/)
+ - [awesome Beacon schematic](https://i.imgur.com/mh1NiGo.png) (GitHub: https://github.com/protolambda/beacon-schematic)
  - [eth2.0 HandBook](https://notes.ethereum.org/s/BkSZAJNwX)
  - [eth2.0 slides](https://docs.google.com/presentation/d/1L1Mauo-5dPKo1-a4lgoZYQ8Ug14nX94NYxlJSgP04y8/edit#slide=id.p4)
  
